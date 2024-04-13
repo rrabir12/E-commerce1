@@ -48,7 +48,7 @@
                     <img src="assets/imgs/visa card.png" alt="" class="img-fluid">
                 </div>
                 <div class="col-lg-4 col-md-5 col-sm-12 mb-4 text-nowrap ">
-                    <p>Ecommerce @2023 All Right Reserved</p>
+                    <p>Ecommerce &copy;2023 All Right Reserved</p>
                 </div>
                 <div class="col-lg-3 col-md-5 col-sm-12 mb-4">
                     <a href=""><i class="fa fa-facebook"></i></a>
