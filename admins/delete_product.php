@@ -11,7 +11,7 @@ if(!isset($_SESSION['admin_logged_in'])){
 
 if(isset($_GET['product_id'])){
 
-    $product_id=$_GET['product_id'];
+$product_id=$_GET['product_id'];
 $stm=$conn->prepare("DELETE FROM products WHERE product_id=?");
 $stm->bind_param('i',$product_id);
 

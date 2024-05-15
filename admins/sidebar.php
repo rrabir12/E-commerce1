@@ -6,7 +6,7 @@
     <a href="#"><img class="logo" src="../assets/imgs/logo.jpg" style="margin-left:38%; height: 15%; width: 25%;" alt=""></a>
     <a href="admin_index.php" class="dashboard"><h2>Admin Dashboard</h2></a>
       <ul class="list-group">
-      <!-- <li class="list-group-item"><a href="orders.php">Orders</a></li> -->
+      <li class="list-group-item"><a href="users.php">Users</a></li>
         <li class="list-group-item"><a href="orders.php">Orders</a></li>
         <li class="list-group-item"><a href="products.php">Products</a></li>
         <li class="list-group-item"><a href="account.php">Accounts</a></li>
