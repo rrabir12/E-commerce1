@@ -148,7 +148,7 @@ if(isset($_POST['search'])){
     <section id="feature" class="my-5 py-5">
         <div class="container text-center mt-5 py-5">
             <h3>Our Shop</h3>
-            <hr style="margin-left: 440px;">
+            <hr>
             <p>Here, you can check our features product for shopping</p>
         </div>
         <div class="row mx-auto container">

@@ -116,7 +116,7 @@ button:hover{
     height: 3px !important;
     opacity: 1 !important;
     background-color: goldenrod;
-    margin-left: 550px;
+    margin-left: 49%;
 }
 
 #new .one img{
@@ -174,7 +174,7 @@ button:hover{
     height: 3px !important;
     opacity: 1 !important;
     background-color: goldenrod;
-    margin-left: 610px;
+    margin-left: 49%;
 }
 
 /* product */
@@ -217,7 +217,7 @@ button:hover{
     height: 3px !important;
     opacity: 1 !important;
     background-color: goldenrod;
-    margin-left: 540px;
+    margin-left: 49%;
 }
 
 .star{
