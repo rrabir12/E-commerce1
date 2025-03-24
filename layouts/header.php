@@ -83,7 +83,7 @@ hr {
                   <span class="cart_quantity"><?php echo count($_SESSION['cart']); ?></span>
                 <?php } ?>
                 </i></a>
-               <a href="account.php"><i class="fa fa-user"></i></a> 
+               <a href="/user_admin.php"><i class="fa fa-user"></i></a> 
               </li>
 
               

@@ -99,7 +99,7 @@ $products=$stm2->get_result();
             <td><?php echo $product['product_id']; ?></td>
             <td><img src="<?php echo "../assets/imgs/".$product['product_image']; ?>" style="height:70px; width:70px;" alt=""></td>
             <td><?php echo $product['product_name']; ?></td>
-            <td><?php echo "$ ".$product['product_price']; ?></td>
+            <td><?php echo "Rs.".$product['product_price']; ?></td>
             <td><?php echo $product['product_special_offer']."%"; ?></td>
             <td><?php echo $product['product_category']; ?></td>
             <td><?php echo $product['product_color']; ?></td>
